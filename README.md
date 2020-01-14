@@ -1,1 +1,1 @@
-# SeniorDesignLidarMTU
+# Senior Design Lidar MTU
